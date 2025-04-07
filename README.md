@@ -37,6 +37,11 @@ cocktail-app/
 │   └── main.js
 ```
 
+## 📄 Documentação
+
+Baixe a documentação completa [aqui]([https://example.com/CocktailApp_Documentacao.pdf](https://cdn.discordapp.com/attachments/1348395981947011112/1358707974549278803/CocktailApp.docx?ex=67f4d2e8&is=67f38168&hm=29651ba4aeac90a7e654741eec0e9d2858352f325ff158d545520fcca76ca03f&)).
+
+
 ## 🌐 API
 
 - [TheCocktailDB](https://www.thecocktaildb.com)
