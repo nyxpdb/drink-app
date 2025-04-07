@@ -86,6 +86,6 @@ A aplicação consome dados da [TheCocktailDB](https://www.thecocktaildb.com), u
 
 ## 👨‍💻 Autor
 
-- GitHub: [@seu-usuario](https://github.com/nyxpdb)
+- GitHub: [@nyxpdb](https://github.com/nyxpdb)
 
 ---
