@@ -43,8 +43,4 @@ cocktail-app/
 
 ## 📸 Preview
 
-Em breve...
-
-## ✍️ Autor
-
-Feito com ódio, amor e React.createElement.
+![Preview do Cocktail App](https://cdn.discordapp.com/attachments/1348395981947011112/1358707276252446720/image.png?ex=67f4d242&is=67f380c2&hm=b0fae351435995644629ceb09da941f042550180f41ebecd97dd510ca351afad)
