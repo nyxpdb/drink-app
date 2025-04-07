@@ -3,7 +3,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Cocktail App** é uma aplicação web minimalista que permite visualizar informações de drinks utilizando a [TheCocktailDB API](https://www.thecocktaildb.com/api.php). Foi desenvolvido utilizando **React sem JSX**, **Axios** para requisições HTTP e **CSS puro** para estilização.
+O **Cocktail App** é uma aplicação web minimalista que permite visualizar informações de drinks utilizando a [TheCocktailDB API](https://www.thecocktaildb.com/api.php). Foi desenvolvido utilizando **React**, **Axios** para requisições HTTP e **CSS puro** para estilização.
 
 ---
 
