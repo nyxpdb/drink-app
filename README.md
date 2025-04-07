@@ -1,17 +1,5 @@
 # 📄 Documentação – Cocktail App
 
-## 🧾 Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação e Execução](#instalação-e-execução)
-- [Estrutura de Arquivos](#estrutura-de-arquivos)
-- [Consumo da API](#consumo-da-api)
-- [Preview](#preview)
-- [Autor](#autor)
-
----
 
 ## 📌 Sobre o Projeto
 
